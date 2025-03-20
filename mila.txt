@@ -1,0 +1,5 @@
+В бд Милы Сухобрус 4 таблицы : work, mark, subject, user.
+в таблицк mark id_user, id_work связаны с таблицами user и work (с их айди).
+В таблице work есть колонны id_user и id_subject связаные с таблицами user и subject.
+Все связи проставлены понятно и логично.
+Оценка 5.
